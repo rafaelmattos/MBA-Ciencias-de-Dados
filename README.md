@@ -1,3 +1,3 @@
-# **MBA Ciências de Dados - ICMC USP - 2024**
+# **Programação para Ciências de Dados**
 
-Repositório para armazenamento das atividades e avaliações do curso.
+Repositório para armazenamento das atividades e avaliações do curso de Python para ciências de dados.
